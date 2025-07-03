@@ -7,4 +7,4 @@ A free built-in soundboard with music and sounds
 Custom-Property checker
 Disable emote mod sounds
 # I cant believe its free!
-Download today: https://discord.gg/v6VvmGNd5n, trusted mods channel in ii's stupid mods or at this github repository
+Download today: https://discord.gg/v6VvmGNd5n, https://gofile.io/d/JZ6O35, trusted mods channel in ii's stupid mods or at this github repository

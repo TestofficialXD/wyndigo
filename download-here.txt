@@ -1,1 +1,23 @@
-Download: https://gofile.io/d/JZ6O35
+# Wyndigo V3.9 
+**Fix Update**
+```diff
+Added:
++ 10 Ghost sounds to the soundboard
++ Anti-Touch
++ Become FunkyTown fish
+
+Fixed:
++ Guns
++ Rig Mods
++ Menu
++ Basically everything
+
+
+Removed:
+- Halloween stuff
+- TTS mods :(
+```
+# [Download](https://gofile.io/d/1061zD)
+# READ THIS!
+*The reason why the file is so big is because of assetbundles, the size will not affect gameplay dont worry!*
+**This menu should not trigger any anti-viruses but if it does know that Wyndigo is completely safe and you just need to add Wyndigo to "Allowed Threats" or disable your real-time virus and threat protection.**
